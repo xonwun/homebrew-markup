@@ -1,6 +1,6 @@
 cask "markup" do
-  version "0.6.0"
-  sha256 "9eb65ebdd6e260cdc2f3333f94d3f8657f7151c91f4b0e9012312983e143d774"
+  version "0.6.1"
+  sha256 "79b2d9216595536a880e51ce8eefb7bc2c021cefe9f817bedc07e05c69845708"
 
   url "https://github.com/xonwun/MarkUp/releases/download/v#{version}/MarkUp.md-#{version}.dmg"
   name "MarkUp.md"
